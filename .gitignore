@@ -1,0 +1,4 @@
+# The compiled tool. Building it in the work tree is the normal thing to do,
+# and `git add -A` takes it: this repository already shipped one that way in
+# its first commit.
+/landingdiff
