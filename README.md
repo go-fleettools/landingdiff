@@ -17,6 +17,12 @@ blocks in the strip                   1            1        1         2   1..2  
 go-pdfkit is alone on 2 measure(s)
 ```
 
+## Install
+
+```sh
+go install github.com/go-fleettools/landingdiff@latest
+```
+
 ## Why counting, and not diffing
 
 The fleet's landings share one `styles.html` — three of the four above are byte
